@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/rd3b/emelies-everyday/issues"
   },
-  "homepage": "https://github.com/rd3b/emelies-everyday#readme"
+  "homepage": "https://github.com/rd3b/emelies-everyday#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "node-fetch": "^3.3.2"
+  }
 }
