@@ -1,0 +1,21 @@
+{
+  "name": "emelies-everyday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rd3b/emelies-everyday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rd3b/emelies-everyday/issues"
+  },
+  "homepage": "https://github.com/rd3b/emelies-everyday#readme"
+}
